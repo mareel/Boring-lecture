@@ -1,0 +1,11 @@
+h2.intro {
+  text-align: center;
+  color: red;
+}
+p.intro {
+  color: blue;
+}
+img.intro {
+  height: 200px;
+  width: 50%
+}
